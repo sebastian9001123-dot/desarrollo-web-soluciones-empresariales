@@ -2,8 +2,12 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy analista de datos especializado en transformar datos complejos en insights accionables. 
-Utilizo el desarrollo web como herramienta complementaria como hobby para ayudarme a practicar los lenguajes de programacion.
+Soy analista de datos con enfoque en negocio, especializado en transformar datos en información clara y útil para la toma de decisiones. 
+
+Cuento con experiencia en análisis, automatización de procesos y generación de reportes, apoyándome en herramientas como Python, SQL y plataformas de visualización de datos.
+
+Adicionalmente, utilizo el desarrollo web como una habilidad complementaria para construir soluciones digitales y fortalecer mis capacidades técnicas.
+
 
 ## 🛠️ Habilidades Técnicas
 
